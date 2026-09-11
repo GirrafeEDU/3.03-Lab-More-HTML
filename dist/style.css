@@ -27,3 +27,10 @@ tbody tr:nth-child(even) {
 tbody tr:hover {
   background-color: #e9e9e9;
 }
+body {
+  background-color: steelblue;
+}
+article {
+  background-color: #7592B5;
+  padding: 25px 150px 15px 15px;
+}
